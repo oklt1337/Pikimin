@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4862442118959608767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3820836993752193098}
+  - component: {fileID: 4012727665064708921}
+  m_Layer: 0
+  m_Name: Mud Shot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3820836993752193098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4012727665064708921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea9f32b18695d8847baaffece08a7434, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveName: Mud Shot
+  moveType: 8
+  currentPp: 15
+  maxPp: 15
+  power: 95
+  accuracy: 55
+  doesSelfDamage: 0
+  sprite: {fileID: 21300000, guid: 5446b725b0f21f3458e7bc4b49f4e68a, type: 3}
+  clip: {fileID: 8300000, guid: 0861361601c7ac84789266831726bb61, type: 3}
+  animatorControllerPlayer: {fileID: 9100000, guid: 283ff18d4f4a3684390dee38914f5fd4,
+    type: 2}
+  animationClipPlayer: {fileID: 7400000, guid: 0d7ce0af3b124804988062812b38e4a2, type: 2}
+  animatorControllerEnemy: {fileID: 9100000, guid: c5798618997bfdd4797187a98a5a6cf9,
+    type: 2}
+  animationClipEnemy: {fileID: 7400000, guid: 9fc2b08a6e44e3448b89b2dac399f8fd, type: 2}

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2830451f4869f714a83c66530995f290
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - battleCamera: {instanceID: 0}
+  - player: {fileID: 4021978599167944013, guid: 4c5ced39278a1a9479b6f907a9db82cf,
+      type: 3}
+  - enemyPodium: {instanceID: 0}
+  - playerPodium: {instanceID: 0}
+  - emptyPikimin: {instanceID: 0}
+  - battleManager: {instanceID: 0}
+  - battlePikimin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

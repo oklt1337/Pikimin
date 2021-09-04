@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4862442118959608767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3820836993752193098}
+  - component: {fileID: 4012727665064708921}
+  m_Layer: 0
+  m_Name: Eruption
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3820836993752193098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4012727665064708921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea9f32b18695d8847baaffece08a7434, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveName: Eruption
+  moveType: 1
+  currentPp: 5
+  maxPp: 5
+  power: 150
+  accuracy: 100
+  doesSelfDamage: 0
+  sprite: {fileID: 21300000, guid: a5502a40544ffbc49a74610598b6773c, type: 3}
+  clip: {fileID: 8300000, guid: 858ba1d644729814f93b0b4fa1dcf1e2, type: 3}
+  animatorControllerPlayer: {fileID: 9100000, guid: 89bb8db140086564cad7e7a1cad88da5,
+    type: 2}
+  animationClipPlayer: {fileID: 7400000, guid: bc4fc06d9fb8a124fbef09eb9ad861ce, type: 2}
+  animatorControllerEnemy: {fileID: 9100000, guid: 16a437353f51def4995a52f436de297f,
+    type: 2}
+  animationClipEnemy: {fileID: 7400000, guid: 6363e9b469a9fb546ac9f94210dab617, type: 2}

@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1722604259948915875
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1722604259948915887}
+  - component: {fileID: 1722604259948915884}
+  - component: {fileID: 1722604259948915874}
+  m_Layer: 0
+  m_Name: 025
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1722604259948915887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1722604259948915875}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1722604259948915884
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1722604259948915875}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -949322449
+  m_SortingLayer: 3
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 63b1425ba43a2a64882eb30c16370555, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 6, y: 6}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &1722604259948915874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1722604259948915875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 290917b70da265b4b8d965fbd81bb6b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pikiminName: Pikachu
+  description: Mouse Pikimin
+  level: 1
+  exp: 0
+  expForNextLevel: 0
+  lvl100Exp: 1000000
+  pikiType: 3
+  currentState: 1
+  pikidexID: 25
+  currentMoves:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  moveOnLevelPrefabs:
+    movesPrefabsList:
+    - {fileID: 4012727665064708921, guid: 887f6ab9819bf9d44a0af20b02d490a6, type: 3}
+    - {fileID: 4012727665064708921, guid: a699028f2620c5947affe3e705a57d7b, type: 3}
+    - {fileID: 4012727665064708921, guid: df23719896a6c574286b9cc7b1f02e88, type: 3}
+    - {fileID: 4012727665064708921, guid: ca7a9bac149955145aa13a684e10ded3, type: 3}
+    movesPrefabsLevel: 010000000b0000001a00000029000000
+  isPlayerPikimin: 0
+  baseStats:
+    baseHp: 35
+    baseAtk: 55
+    baseDef: 40
+    baseSpeed: 90
+  pikiminIVs:
+    hpIV: 13
+    atkIV: 12
+    defIV: 10
+    speedIV: 13
+  pikiminStats:
+    attackStat: 17
+    defenseStat: 14
+    speedStat: 23
+    currentHp: 27
+    fullHp: 27
+  baseExp: 105
+  rarity: 4
+  isWild: 0
+  canEvolve: 1
+  evolveTo:
+    nextEvolution: {fileID: 1722604259948915874, guid: 7fa0025f694126643adc70bfeb727eec,
+      type: 3}
+    evolvingLevel: 26
+  height: 0.4
+  weight: 6
+  biomeFound: 1
+  regions: 0f000000
+  frontSprite: {fileID: 21300000, guid: 63b1425ba43a2a64882eb30c16370555, type: 3}
+  backSprite: {fileID: 21300000, guid: ee71eb2531a55b24a99a93817fbb0e8d, type: 3}
+  footprint: {fileID: 21300000, guid: 7581bafa79b6ac64aaf378bcd539a21d, type: 3}

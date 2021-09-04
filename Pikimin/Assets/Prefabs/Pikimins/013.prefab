@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6801972583952920743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6801972583952920739}
+  - component: {fileID: 6801972583952920740}
+  - component: {fileID: 6801972583952920742}
+  m_Layer: 0
+  m_Name: 013
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6801972583952920739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6801972583952920743}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &6801972583952920740
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6801972583952920743}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -949322449
+  m_SortingLayer: 3
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 8f595d45b3e255e4799d01603179bcf5, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 6, y: 6}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &6801972583952920742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6801972583952920743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 290917b70da265b4b8d965fbd81bb6b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pikiminName: Weedle
+  description: Hairy Bug Pikimin
+  level: 1
+  exp: 0
+  expForNextLevel: 0
+  lvl100Exp: 1000000
+  pikiType: 11
+  currentState: 1
+  pikidexID: 13
+  currentMoves:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  moveOnLevelPrefabs:
+    movesPrefabsList:
+    - {fileID: 4012727665064708921, guid: 480eaecc701f5304f95dab8b8b3bdf2f, type: 3}
+    movesPrefabsLevel: 01000000
+  isPlayerPikimin: 0
+  baseStats:
+    baseHp: 40
+    baseAtk: 35
+    baseDef: 30
+    baseSpeed: 50
+  pikiminIVs:
+    hpIV: 0
+    atkIV: 0
+    defIV: 0
+    speedIV: 0
+  pikiminStats:
+    attackStat: 0
+    defenseStat: 0
+    speedStat: 0
+    currentHp: 0
+    fullHp: 0
+  baseExp: 52
+  rarity: 1
+  isWild: 0
+  canEvolve: 1
+  evolveTo:
+    nextEvolution: {fileID: 6801972583952920742, guid: 2dd150fee7558a24c8424abbd92050e3,
+      type: 3}
+    evolvingLevel: 7
+  height: 0.3
+  weight: 3.2
+  biomeFound: 1
+  regions: 0f000000
+  frontSprite: {fileID: 21300000, guid: 8f595d45b3e255e4799d01603179bcf5, type: 3}
+  backSprite: {fileID: 21300000, guid: ccafab12929bdda41b9c78bdec7af723, type: 3}
+  footprint: {fileID: 21300000, guid: a4f8ee8d54a2c7445b6f5c7a4dc05df3, type: 3}

@@ -1,0 +1,2432 @@
+fileFormatVersion: 2
+guid: f8db23fdc76b329499be25a8e6b4fb20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3091451138358983533
+    second: Dojo Chef Sprites_0
+  - first:
+      213: 5188743241044682922
+    second: Dojo Chef Sprites_1
+  - first:
+      213: 4163094238291265615
+    second: Dojo Chef Sprites_2
+  - first:
+      213: -1233616234144293115
+    second: Dojo Chef Sprites_3
+  - first:
+      213: -4615260727510414311
+    second: Dojo Chef Sprites_4
+  - first:
+      213: 7826117851912989532
+    second: Dojo Chef Sprites_5
+  - first:
+      213: 675787218666716055
+    second: Dojo Chef Sprites_6
+  - first:
+      213: -5246054391462761967
+    second: Dojo Chef Sprites_7
+  - first:
+      213: -7323147568980132765
+    second: Dojo Chef Sprites_8
+  - first:
+      213: -7976314179272325094
+    second: Dojo Chef Sprites_9
+  - first:
+      213: -965496484777842001
+    second: Dojo Chef Sprites_10
+  - first:
+      213: -4882002567698454984
+    second: Dojo Chef Sprites_11
+  - first:
+      213: 7649534169487834223
+    second: Dojo Chef Sprites_12
+  - first:
+      213: 2848017598316371658
+    second: Dojo Chef Sprites_13
+  - first:
+      213: 7543659639545006494
+    second: Dojo Chef Sprites_14
+  - first:
+      213: 693982307843916320
+    second: Dojo Chef Sprites_15
+  - first:
+      213: 6043645273561961490
+    second: Dojo Chef Sprites_16
+  - first:
+      213: -3989662929047228747
+    second: Dojo Chef Sprites_17
+  - first:
+      213: -7513383248916128358
+    second: Dojo Chef Sprites_18
+  - first:
+      213: 3021930948431441978
+    second: Dojo Chef Sprites_19
+  - first:
+      213: 1451264864619852479
+    second: Dojo Chef Sprites_20
+  - first:
+      213: -4883122478337737057
+    second: Dojo Chef Sprites_21
+  - first:
+      213: 8755996524548717481
+    second: Dojo Chef Sprites_22
+  - first:
+      213: 914728806904520357
+    second: Dojo Chef Sprites_23
+  - first:
+      213: 2486509570111255840
+    second: Dojo Chef Sprites_24
+  - first:
+      213: 6595323839419826179
+    second: Dojo Chef Sprites_25
+  - first:
+      213: -5149466940773575359
+    second: Dojo Chef Sprites_26
+  - first:
+      213: 76274855541553491
+    second: Dojo Chef Sprites_27
+  - first:
+      213: 5037953774103511521
+    second: Dojo Chef Sprites_28
+  - first:
+      213: -3003718587112577094
+    second: Dojo Chef Sprites_29
+  - first:
+      213: -7896391760200618084
+    second: Dojo Chef Sprites_30
+  - first:
+      213: -6003231739610158316
+    second: Dojo Chef Sprites_31
+  - first:
+      213: 1448710659843936043
+    second: Dojo Chef Sprites_32
+  - first:
+      213: -1201614153621733090
+    second: Dojo Chef Sprites_33
+  - first:
+      213: -7048391469857080444
+    second: Dojo Chef Sprites_34
+  - first:
+      213: -1634058722372070410
+    second: Dojo Chef Sprites_35
+  - first:
+      213: -706895251795834781
+    second: Dojo Chef Sprites_36
+  - first:
+      213: -4275445035693545482
+    second: Dojo Chef Sprites_37
+  - first:
+      213: -6665764654485234790
+    second: Dojo Chef Sprites_38
+  - first:
+      213: 4922028955285068524
+    second: Dojo Chef Sprites_39
+  - first:
+      213: -1042537689264639871
+    second: Dojo Chef Sprites_40
+  - first:
+      213: 5354163723657465618
+    second: Dojo Chef Sprites_41
+  - first:
+      213: 9049456978034162777
+    second: Dojo Chef Sprites_42
+  - first:
+      213: 6290669834378286942
+    second: Dojo Chef Sprites_43
+  - first:
+      213: -3244736645429638124
+    second: Dojo Chef Sprites_44
+  - first:
+      213: 4409012600107301800
+    second: Dojo Chef Sprites_45
+  - first:
+      213: 7781860022275130310
+    second: Dojo Chef Sprites_46
+  - first:
+      213: 261637211972339190
+    second: Dojo Chef Sprites_47
+  - first:
+      213: 5678965452275910584
+    second: Dojo Chef Sprites_48
+  - first:
+      213: -5646245787520969255
+    second: Dojo Chef Sprites_49
+  - first:
+      213: 8744721917854264099
+    second: Dojo Chef Sprites_50
+  - first:
+      213: 3950949690859735069
+    second: Dojo Chef Sprites_51
+  - first:
+      213: -1874918380883986286
+    second: Dojo Chef Sprites_52
+  - first:
+      213: 3794511823969835445
+    second: Dojo Chef Sprites_53
+  - first:
+      213: 1547736661190377461
+    second: Dojo Chef Sprites_54
+  - first:
+      213: 4570362467525557873
+    second: Dojo Chef Sprites_55
+  - first:
+      213: 9042724609189569099
+    second: Dojo Chef Sprites_56
+  - first:
+      213: 2918184993219658702
+    second: Dojo Chef Sprites_57
+  - first:
+      213: 8376101247199351934
+    second: Dojo Chef Sprites_58
+  - first:
+      213: 8283754484400023262
+    second: Dojo Chef Sprites_59
+  - first:
+      213: 121813069196310046
+    second: Dojo Chef Sprites_60
+  - first:
+      213: 3379429913479550391
+    second: Dojo Chef Sprites_61
+  - first:
+      213: -8400300244061824353
+    second: Dojo Chef Sprites_62
+  - first:
+      213: 6196767729659252597
+    second: Dojo Chef Sprites_63
+  - first:
+      213: 7062343121520026901
+    second: Dojo Chef Sprites_64
+  - first:
+      213: -4222739881324185176
+    second: Dojo Chef Sprites_65
+  - first:
+      213: 8959414776076606769
+    second: Dojo Chef Sprites_66
+  - first:
+      213: -3688116037396351253
+    second: Dojo Chef Sprites_67
+  - first:
+      213: 7271450424247246858
+    second: Dojo Chef Sprites_68
+  - first:
+      213: 1906761005695788346
+    second: Dojo Chef Sprites_69
+  - first:
+      213: -8345130491997437517
+    second: Dojo Chef Sprites_70
+  - first:
+      213: 5546929380796161947
+    second: Dojo Chef Sprites_71
+  - first:
+      213: 1140940059551537496
+    second: Dojo Chef Sprites_72
+  - first:
+      213: 7741624387663633763
+    second: Dojo Chef Sprites_73
+  - first:
+      213: 2754884832828995064
+    second: Dojo Chef Sprites_74
+  - first:
+      213: -7619314909071092665
+    second: Dojo Chef Sprites_75
+  - first:
+      213: -5618883045098187790
+    second: Dojo Chef Sprites_76
+  - first:
+      213: -7105355801769515072
+    second: Dojo Chef Sprites_77
+  - first:
+      213: -2677330092145330745
+    second: Dojo Chef Sprites_78
+  - first:
+      213: 3673517020385613689
+    second: Dojo Chef Sprites_79
+  - first:
+      213: -4283325938997204321
+    second: Dojo Chef Sprites_80
+  - first:
+      213: 598704411659836161
+    second: Dojo Chef Sprites_81
+  - first:
+      213: -1453462455049750977
+    second: Dojo Chef Sprites_82
+  - first:
+      213: -7351870341711720090
+    second: Dojo Chef Sprites_83
+  - first:
+      213: 6355697170440156742
+    second: Dojo Chef Sprites_84
+  - first:
+      213: -1212515000815718620
+    second: Dojo Chef Sprites_85
+  - first:
+      213: 6121792902910233269
+    second: Dojo Chef Sprites_86
+  - first:
+      213: 8731198502558320137
+    second: Dojo Chef Sprites_87
+  - first:
+      213: -830269798877828517
+    second: Dojo Chef Sprites_88
+  - first:
+      213: -1827499053078646251
+    second: Dojo Chef Sprites_89
+  - first:
+      213: -4431194597840788141
+    second: Dojo Chef Sprites_90
+  - first:
+      213: -5087385652046654714
+    second: Dojo Chef Sprites_91
+  - first:
+      213: -797055615127833699
+    second: Dojo Chef Sprites_92
+  - first:
+      213: 2587499482686528944
+    second: Dojo Chef Sprites_93
+  - first:
+      213: -7246556932906801206
+    second: Dojo Chef Sprites_94
+  - first:
+      213: 9152526135733609053
+    second: Dojo Chef Sprites_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 623
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c2a1a195f815d0800000000000000
+      internalID: -3091451138358983533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 628
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86d219c7e120840800000000000000
+      internalID: 5188743241044682922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 623
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4883d7172846c930800000000000000
+      internalID: 4163094238291265615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 623
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f9cae229051eee0800000000000000
+      internalID: -1233616234144293115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 628
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4eee22dc43ffb0800000000000000
+      internalID: -4615260727510414311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 623
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bed95c8b4fb9c60800000000000000
+      internalID: 7826117851912989532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 623
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf06815e0e06900800000000000000
+      internalID: 675787218666716055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 628
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aeb7463554237b0800000000000000
+      internalID: -5246054391462761967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 623
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c7c21f514fe5a90800000000000000
+      internalID: -7323147568980132765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 623
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18cf87a3807e4190800000000000000
+      internalID: -7976314179272325094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 628
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaade0001ed992f0800000000000000
+      internalID: -965496484777842001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 623
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836e9c7d784af3cb0800000000000000
+      internalID: -4882002567698454984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 539
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf8855cca982a60800000000000000
+      internalID: 7649534169487834223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 539
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace55bd8ae0368720800000000000000
+      internalID: 2848017598316371658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 539
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990881697670b860800000000000000
+      internalID: 7543659639545006494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 539
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022417b6b3581a900800000000000000
+      internalID: 693982307843916320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 539
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214112f0b575fd350800000000000000
+      internalID: 6043645273561961490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 539
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be689444bed1a8c0800000000000000
+      internalID: -3989662929047228747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 539
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ddbf22eb91bb790800000000000000
+      internalID: -7513383248916128358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 539
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30f30dcf2e00f920800000000000000
+      internalID: 3021930948431441978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 539
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2fbaa84bde32410800000000000000
+      internalID: 1451264864619852479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 539
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e34f35af9ab3cb0800000000000000
+      internalID: -4883122478337737057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 539
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abf744a27c838970800000000000000
+      internalID: 8755996524548717481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 539
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae5c51e005c1bc00800000000000000
+      internalID: 914728806904520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0253719a74bd18220800000000000000
+      internalID: 2486509570111255840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 450
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c843a61c478b50800000000000000
+      internalID: 6595323839419826179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 450
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d294b91b6988b0800000000000000
+      internalID: -5149466940773575359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 450
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35939d5b39bfe0100800000000000000
+      internalID: 76274855541553491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 450
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1474ce3486ae540800000000000000
+      internalID: 5037953774103511521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 450
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7aae10cd5a056d0800000000000000
+      internalID: -3003718587112577094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fabede7816a6290800000000000000
+      internalID: -7896391760200618084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 450
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41baf201a8c30bca0800000000000000
+      internalID: -6003231739610158316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 450
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc1566baada1410800000000000000
+      internalID: 1448710659843936043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 450
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e118b403b42035fe0800000000000000
+      internalID: -1201614153621733090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 450
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b76495d451f2e90800000000000000
+      internalID: -7048391469857080444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 450
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f352e6ef38a259e0800000000000000
+      internalID: -1634058722372070410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688c47838a9036f0800000000000000
+      internalID: -706895251795834781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 361
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f767ce64619aa4c0800000000000000
+      internalID: -4275445035693545482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 356
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b9d0d0d527e73a0800000000000000
+      internalID: -6665764654485234790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 356
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea14fdb14f8e4440800000000000000
+      internalID: 4922028955285068524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 361
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180bc66ce792881f0800000000000000
+      internalID: -1042537689264639871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 356
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc2e10a8fcd4a40800000000000000
+      internalID: 5354163723657465618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 356
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf7e9ec21269d70800000000000000
+      internalID: 9049456978034162777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 361
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57126d82e2fc4750800000000000000
+      internalID: 6290669834378286942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 356
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c497b563168f2d0800000000000000
+      internalID: -3244736645429638124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 356
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abfd9f8995ff2d30800000000000000
+      internalID: 4409012600107301800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 361
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c58fc578befb60800000000000000
+      internalID: 7781860022275130310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 356
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f582a778a581a300800000000000000
+      internalID: 261637211972339190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 267
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b70f9a8dfcbfce40800000000000000
+      internalID: 5678965452275910584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 272
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d554401f5184a1b0800000000000000
+      internalID: -5646245787520969255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 267
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba645b04e7b5970800000000000000
+      internalID: 8744721917854264099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 267
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1842219fc794d630800000000000000
+      internalID: 3950949690859735069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 272
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2983f849aa3faf5e0800000000000000
+      internalID: -1874918380883986286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 267
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ddb35660d8a430800000000000000
+      internalID: 3794511823969835445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 267
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff9180b4aaa7510800000000000000
+      internalID: 1547736661190377461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 272
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e73ab03703d6f30800000000000000
+      internalID: 4570362467525557873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 267
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426d642f163e7d70800000000000000
+      internalID: 9042724609189569099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 267
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3cbb54ac97f7820800000000000000
+      internalID: 2918184993219658702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 272
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741602b4b3ed3470800000000000000
+      internalID: 8376101247199351934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 267
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6663970dec5f270800000000000000
+      internalID: 8283754484400023262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 183
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16327e4754c0b100800000000000000
+      internalID: 121813069196310046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 183
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51740f99526ee20800000000000000
+      internalID: 3379429913479550391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 183
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a511a4f632c6b80800000000000000
+      internalID: -8400300244061824353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 183
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f81f11b675ff550800000000000000
+      internalID: 6196767729659252597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 183
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515ef10b6ab720260800000000000000
+      internalID: 7062343121520026901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 183
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fbc27370d565c0800000000000000
+      internalID: -4222739881324185176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 183
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9e63154c365c70800000000000000
+      internalID: 8959414776076606769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 183
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b194210e21dcc0800000000000000
+      internalID: -3688116037396351253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 183
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00ee1392a169e460800000000000000
+      internalID: 7271450424247246858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 183
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a356010480d267a10800000000000000
+      internalID: 1906761005695788346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 183
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1463c2804203c80800000000000000
+      internalID: -8345130491997437517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 183
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f588802e6aafc40800000000000000
+      internalID: 5546929380796161947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859159f60fe65df00800000000000000
+      internalID: 1140940059551537496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 94
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d113b1d56cf6b60800000000000000
+      internalID: 7741624387663633763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 94
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f532e1d8215b3620800000000000000
+      internalID: 2754884832828995064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 94
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744daf48571c24690800000000000000
+      internalID: -7619314909071092665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 94
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3157ef3a7b502b0800000000000000
+      internalID: -5618883045098187790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 94
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c764c84b84b46d90800000000000000
+      internalID: -7105355801769515072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 94
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b63f577638dad0800000000000000
+      internalID: -2677330092145330745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 94
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779f645444faf230800000000000000
+      internalID: 3673517020385613689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 94
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aead4a0c19e84c0800000000000000
+      internalID: -4283325938997204321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 94
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b91768d760f4800800000000000000
+      internalID: 598704411659836161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 94
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367460199344dbe0800000000000000
+      internalID: -1453462455049750977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 94
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6611b8740e8e8f990800000000000000
+      internalID: -7351870341711720090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467a0017e8f33850800000000000000
+      internalID: 6355697170440156742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42feb8be7084c2fe0800000000000000
+      internalID: -1212515000815718620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac876e53af4f450800000000000000
+      internalID: 6121792902910233269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906496837c27b2970800000000000000
+      internalID: 8731198502558320137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 5
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae622540a4a74f0800000000000000
+      internalID: -830269798877828517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51272e13b4b63a6e0800000000000000
+      internalID: -1827499053078646251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e111adfb3182c0800000000000000
+      internalID: -4431194597840788141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 5
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603175e14b9f569b0800000000000000
+      internalID: -5087385652046654714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93331a142a40f4f0800000000000000
+      internalID: -797055615127833699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd99020215a8e320800000000000000
+      internalID: 2587499482686528944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac722790dde0f6b90800000000000000
+      internalID: -7246556932906801206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dojo Chef Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5261ed370e440f70800000000000000
+      internalID: 9152526135733609053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4862442118959608767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3820836993752193098}
+  - component: {fileID: 4012727665064708921}
+  m_Layer: 0
+  m_Name: Dragon Rage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3820836993752193098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4012727665064708921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea9f32b18695d8847baaffece08a7434, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveName: Dragon Rage
+  moveType: 14
+  currentPp: 10
+  maxPp: 10
+  power: 100
+  accuracy: 100
+  doesSelfDamage: 0
+  sprite: {fileID: 21300000, guid: f53f30b517f39be41a71e88e36819262, type: 3}
+  clip: {fileID: 8300000, guid: d95be1ac18420944d9105d68181c69e9, type: 3}
+  animatorControllerPlayer: {fileID: 9100000, guid: 65c4e5020472b724ab6bfe7ede14e466,
+    type: 2}
+  animationClipPlayer: {fileID: 7400000, guid: b01fc4c1095cc684cba696d92c6511a7, type: 2}
+  animatorControllerEnemy: {fileID: 9100000, guid: 91ec654c8c344da46bc1571b6051bc0b,
+    type: 2}
+  animationClipEnemy: {fileID: 7400000, guid: 88dd6ac62939dea4e8f1e3996551c087, type: 2}

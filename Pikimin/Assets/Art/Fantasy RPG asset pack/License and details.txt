@@ -1,0 +1,21 @@
+FANTASY RPG (by Franuka) v1.1
+-------------------------
+Thank you for purchasing this asset pack!
+It was created from scratch, and licensed under the Creative commons BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Feel free to use it on any commercial or non-commercial game, just remember to add a link to my itch page and/or instagram, it helps a lot :) -->https://franuka.itch.io/
+---
+Included are all the tiles and spritesheets for each asset, in .png format, transparent background. You should be able to recreate anything you see on the example images.
+The tiles are 16x16px.
+---
+All art was made by me. If you need anything else, I'm open to commissions or long-term jobs. Ask for details.
+Contact: franukai@gmail.com
+Instagram: https://www.instagram.com/franuka.art/
+Other projects and games: https://franuka.itch.io/
+
+If you like what I do, consider supporting me by donating, sharing, or sending your feedback.
+Have a good time making your games :)
+
+
+CHANGELOG
+----------
+v1.1: Added colour variations to every monster and NPC

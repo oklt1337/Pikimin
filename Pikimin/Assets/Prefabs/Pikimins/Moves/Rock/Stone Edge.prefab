@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4862442118959608767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3820836993752193098}
+  - component: {fileID: 4012727665064708921}
+  m_Layer: 0
+  m_Name: Stone Edge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3820836993752193098
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4012727665064708921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4862442118959608767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea9f32b18695d8847baaffece08a7434, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveName: Stone Edge
+  moveType: 12
+  currentPp: 5
+  maxPp: 5
+  power: 100
+  accuracy: 80
+  doesSelfDamage: 0
+  sprite: {fileID: 21300000, guid: a3462a0fb68cf584f98b0bbe61a5f028, type: 3}
+  clip: {fileID: 8300000, guid: 6fa6cd9df55c65c44b019ba394bbac6f, type: 3}
+  animatorControllerPlayer: {fileID: 9100000, guid: f2e7389c8ee17a34b819c1fbc5f041e7,
+    type: 2}
+  animationClipPlayer: {fileID: 7400000, guid: e79fc46cd97da4747b70a20a7d01a3d8, type: 2}
+  animatorControllerEnemy: {fileID: 9100000, guid: a598cc9940f146a428d196952cbafc93,
+    type: 2}
+  animationClipEnemy: {fileID: 7400000, guid: d1fb8404dc343da4c8811725fc2815fd, type: 2}
